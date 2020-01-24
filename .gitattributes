@@ -1,4 +1,4 @@
   
-*.vye linguist-detectable=false
+*.vue linguist-detectable=false
 
 *.js linguist-detectable=true
